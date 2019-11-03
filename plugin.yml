@@ -1,0 +1,15 @@
+name: SetName
+main: WoolChannel3295\Name\Main
+version: 3.0.0
+api: 3.0.0
+author: WoolChannel3295
+commands:
+  setname:
+    description: "Set Name Command"
+    usage: /setname
+permissions:
+  setname.command:
+    default: op
+    description: "Allows Use ComMand"
+            
+      
